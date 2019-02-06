@@ -1,0 +1,22 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "Full Stack Django/React/Redux app that uses token based authentication with Knox.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsigie/task_manager.git"
+  },
+  "keywords": [
+    "Kimpa1213"
+  ],
+  "author": "Tsigie Kumssa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsigie/task_manager/issues"
+  },
+  "homepage": "https://github.com/Tsigie/task_manager#readme"
+}
